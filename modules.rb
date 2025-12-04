@@ -1,3 +1,4 @@
+#modules are a mechanism to implement multiple inheritance in ruby( 2 parents for a child) 
 module Works
     def works
         puts "people are working yaar!!"
